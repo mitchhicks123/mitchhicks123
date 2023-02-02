@@ -15,7 +15,7 @@ My name is Mitch and I am a Software Engineer with a specialization in IoT. My p
 
         &nbsp; Introduction to Accounting (EdX course)
 
-&nbsp;&nbsp;&nbsp; Accounting Fundaments (Udemy course)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accounting Fundaments (Udemy course)
 
 - 🤔 I manage a team of 5 individuals in my role as the National Manager of the Cam's Kids Foundation
 - 🔎 For more information please check out my [LinkedIn](https://www.linkedin.com/in/mitchell-hicks/)
