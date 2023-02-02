@@ -13,9 +13,9 @@ My name is Mitch and I am a Software Engineer with a specialization in IoT. My p
 - 🧠 I’m currently learning "Machine learning with Python for finance professionals" by ACCA "Association of Chartered Certified Accountants" through EdX
 - 🏦 I'm extremely passionate about finance and investing. I have taken many courses on accounting and finance including:
 
-| Introduction to Accounting (EdX course)
+&nbsp;Introduction to Accounting (EdX course)
 
-| Accounting Fundaments (Udemy course)
+&nbsp;Accounting Fundaments (Udemy course)
 
 - 🤔 I manage a team of 5 individuals in my role as the National Manager of the Cam's Kids Foundation
 - 🔎 For more information please check out my [LinkedIn](https://www.linkedin.com/in/mitchell-hicks/)
