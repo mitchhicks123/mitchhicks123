@@ -17,5 +17,5 @@ My name is Mitch and I am a Software Engineer with a specialization in IoT. My p
 
 - 🤔 I manage a team of 5 individuals in my role as the National Manager of the Cam's Kids Foundation
 - 🔎 For more information please check out my [LinkedIn](https://www.linkedin.com/in/mitchell-hicks/)
-- 📫 Contact: email or LinkedIn DM
+- 📫 Contact: email or DM via LinkedIn
 
