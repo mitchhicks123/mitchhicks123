@@ -12,8 +12,7 @@ My name is Mitch and I am a Software Engineer with a specialization in IoT. My p
 - 📈 I’m constantly continuing to develop my Python skills through extracurricular courses and self-directed projects 
 - 🧠 I’m currently learning "Machine learning with Python for finance professionals" by ACCA "Association of Chartered Certified Accountants" through EdX
 - 🏦 I'm extremely passionate about finance and investing. I have taken many courses on accounting and finance including:
-
-        &nbsp; Introduction to Accounting (EdX course)
+-       Introduction to Accounting (EdX course)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accounting Fundaments (Udemy course)
 
